@@ -672,3 +672,4 @@ struct sctp_error_auth_invalid_hmac {
 #define SCTP_LOG_TRY_ADVANCE				0x10000000
 
 #endif				/* !_NETINET_SCTP_H_ */
+
